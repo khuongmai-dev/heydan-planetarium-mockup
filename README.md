@@ -1,6 +1,6 @@
 # Hayden Planetarium
 
-> Link Demo
+> [Link Demo](http://heydan-planetarium-mockup.khuongmai.dev/)
 
 Develop a static HTML5 page with corresponding external CSS file.
 
